@@ -10,12 +10,12 @@ int main(int argc, char *argv[])
 	setlocale(LC_ALL, "Rus");
 	if (argc < 5)
 	{
-		cout << "*** Êîíâåðòåð âåëè÷èí ***\n";
-		cout << "** Ôóíêöiîíàë **\n";
-		cout <<	"conv -v \"100\" -m \"HoursToSeconds\" - êîíâåðòóâàòè 100 ãîäèí â ñåêóíäè\n";
-		cout << "conv -v \"100\" -m \"SecondsToHours\" - êîíâåðòóâàòè 100 ñåêóíä â ãîäèíè\n";
-		cout <<	"conv -v \"100\" -m \"KmToSM\" - êîíâåðòóâàòè 100 êiëîìåòðiâ â ñàíòèìåòðè\n";
-		cout << "Óñi âàðiàíòè:\n";
+		cout << "*** ÃŠÃ®Ã­Ã¢Ã¥Ã°Ã²Ã¥Ã° Ã¢Ã¥Ã«Ã¨Ã·Ã¨Ã­ ***\n";
+		cout << "** Ã”Ã³Ã­ÃªÃ¶iÃ®Ã­Ã Ã« **\n";
+		cout <<	"conv -v \"100\" -m \"HoursToSeconds\" - ÃªÃ®Ã­Ã¢Ã¥Ã°Ã²Ã³Ã¢Ã Ã²Ã¨ 100 Ã£Ã®Ã¤Ã¨Ã­ Ã¢ Ã±Ã¥ÃªÃ³Ã­Ã¤Ã¨\n";
+		cout << "conv -v \"100\" -m \"SecondsToHours\" - ÃªÃ®Ã­Ã¢Ã¥Ã°Ã²Ã³Ã¢Ã Ã²Ã¨ 100 Ã±Ã¥ÃªÃ³Ã­Ã¤ Ã¢ Ã£Ã®Ã¤Ã¨Ã­Ã¨\n";
+		cout <<	"conv -v \"100\" -m \"KmToSM\" - ÃªÃ®Ã­Ã¢Ã¥Ã°Ã²Ã³Ã¢Ã Ã²Ã¨ 100 ÃªiÃ«Ã®Ã¬Ã¥Ã²Ã°iÃ¢ Ã¢ Ã±Ã Ã­Ã²Ã¨Ã¬Ã¥Ã²Ã°Ã¨\n";
+		cout << "Ã“Ã±i Ã¢Ã Ã°iÃ Ã­Ã²Ã¨:\n";
 		cout << "HoursToSeconds | SecondsToHours | HoursToMillisec | MillisecToHours | SecondsToMillisec | MillisecToSeconds\n";
 		cout << "KmToSM | SMToKm | KmToMM | MMToKm | SMToMM | MMToSM\n";
 		cout << endl; 
@@ -33,7 +33,7 @@ int main(int argc, char *argv[])
 		}
 		else
 		{
-			cout << "Ïîìèëêà â êëþ÷àõ. Íå âêàçàíi -v -m." << endl;
+			cout << "ÃÃ®Ã¬Ã¨Ã«ÃªÃ  Ã¢ ÃªÃ«Ã¾Ã·Ã Ãµ. ÃÃ¥ Ã¢ÃªÃ Ã§Ã Ã­i -v -m." << endl;
 			system("pause");
 			return 1;
 		}
@@ -100,11 +100,12 @@ int main(int argc, char *argv[])
 		}
 		else
 		{
-			cout << "Ïîìèëêà â êîìàíäi. Íå âêàçàí ïðàâûëüíî êëþ÷ -m." << endl;
+			cout << "ÃÃ®Ã¬Ã¨Ã«ÃªÃ  Ã¢ ÃªÃ®Ã¬Ã Ã­Ã¤i. ÃÃ¥ Ã¢ÃªÃ Ã§Ã Ã­ Ã¯Ã°Ã Ã¢Ã»Ã«Ã¼Ã­Ã® ÃªÃ«Ã¾Ã· -m." << endl;
 			system("pause");
 			return 2;
 		}
 	}
 	system("pause");
 	return 0;
+	
 }
