@@ -1,0 +1,84 @@
+﻿p
+{
+ background-color: grey;
+}
+h1
+{
+ background-color: grey;
+}
+li
+{
+ background-color: grey;
+}
+table
+{
+ background-color: grey;
+}
+.imaged{
+ background-image: url("css-fon1.jpg");
+ background-repeat: no-repeat;
+ background-size: 100% 100%;
+ }
+.quarantine
+{
+ color: yellow;
+}
+a.none 
+{
+ text-decoration: none;
+}
+div{
+ width: 550px;
+ height:50px;
+ border-style: solid;
+ border-color: green;
+ border-width: 1px;
+ }
+}
+
+}
+.fig {
+    text-align: center; /* Выравнивание по центру */ 
+   }
+.comp2{
+ background-image: url("snappy.jpg");
+ background-repeat: no-repeat;
+ width: 351px;
+ height: 499px;
+ margin: 10px;
+}
+div{
+ margin: 10px;
+ border: 1px solid black;
+ font-size: 18px;
+ height: 80px;
+ }
+
+ #header{
+ background-color: grey;
+ width:98%;
+ height: 180px;
+ }
+ #sidebar1{
+ background-color: grey;
+ float: left;
+ width: 25%;
+ height: 230px;
+ }
+ #sidebar2{
+ background-color: grey;
+ float: right;
+ height: 230px;
+ width: 25%;
+}
+ #main{
+ background-color: grey;
+ width: 48%;
+ height: 800px;
+ margin-right: 26%;
+ margin-left: 26%;
+ }
+ #footer{
+ background-color: grey;
+ width:98%;
+ }

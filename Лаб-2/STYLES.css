@@ -1,0 +1,54 @@
+p
+{
+ background-color: grey;
+}
+h1
+{
+ background-color: grey;
+}
+li
+{
+ background-color: grey;
+}
+table
+{
+ background-color: grey;
+}
+.imaged{
+ background-image: url("css-fon1.jpg");
+ background-repeat: no-repeat;
+ background-size: 100% 100%;
+ }
+.quarantine
+{
+ color: yellow;
+}
+a.none 
+{
+ text-decoration: none;
+}
+div{
+ width: 550px;
+ height:50px;
+ border-style: solid;
+ border-color: green;
+ border-width: 1px;
+ }
+}
+.comp1{
+ background-image: url("electro.jpg");
+ background-repeat: no-repeat;
+ width: 736px;
+ height: 414px;
+ margin: 10px;
+}
+.fig {
+    text-align: center; /* Выравнивание по центру */ 
+   }
+.comp2{
+ background-image: url("snappy.jpg");
+ background-repeat: no-repeat;
+ width: 351px;
+ height: 499px;
+ margin: 10px;
+}

@@ -1,0 +1,10 @@
+D:\Study\3 курс\Обєктно-орієнтоване-програмування\LAB-2\bin\Debug\LAB-2.exe.config
+D:\Study\3 курс\Обєктно-орієнтоване-програмування\LAB-2\bin\Debug\LAB-2.exe
+D:\Study\3 курс\Обєктно-орієнтоване-програмування\LAB-2\bin\Debug\LAB-2.pdb
+D:\Study\3 курс\Обєктно-орієнтоване-програмування\LAB-2\obj\Debug\LAB-2.csprojAssemblyReference.cache
+D:\Study\3 курс\Обєктно-орієнтоване-програмування\LAB-2\obj\Debug\LAB_2.LAB2.resources
+D:\Study\3 курс\Обєктно-орієнтоване-програмування\LAB-2\obj\Debug\LAB_2.Properties.Resources.resources
+D:\Study\3 курс\Обєктно-орієнтоване-програмування\LAB-2\obj\Debug\LAB-2.csproj.GenerateResource.cache
+D:\Study\3 курс\Обєктно-орієнтоване-програмування\LAB-2\obj\Debug\LAB-2.csproj.CoreCompileInputs.cache
+D:\Study\3 курс\Обєктно-орієнтоване-програмування\LAB-2\obj\Debug\LAB-2.exe
+D:\Study\3 курс\Обєктно-орієнтоване-програмування\LAB-2\obj\Debug\LAB-2.pdb
